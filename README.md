@@ -2,6 +2,8 @@
 
 ## Overview
 
+Add a correlation ID to your requests, and trace them as they pass through your infrastructure.
+
 ## Requirements
 
 ## License
