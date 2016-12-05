@@ -6,7 +6,12 @@
   "custom_middleware": {
     "pre": [
       {
-        "name": "CorrelationMiddleware"
+        "name": "PreMiddleware"
+      }
+    ],
+    "post": [
+      {
+        "name": "PostMiddleware"
       }
     ],
     "driver": "python"
